@@ -1,0 +1,74 @@
+{
+	"items": [
+		{
+			"club_id": "rugby",
+			"name": "Rugby",
+			"short_name": "Rugby",
+			"img": "resources/images/dcu-rugby.jpg",
+			"teams": [
+				{
+					"team_id": "ail",
+					"club_id": "ccfc",
+					"name": "AIL Senior Team",
+					"img": "resources/images/corkcon.jpg",
+					"players": [
+						{
+							"player_id": "ccfc-1",
+							"surname": "O'Gara",
+							"firstName": "Ronan",
+							"dob": "01/01/1980",
+							"img": "resources/images/rog.jpg",
+							"club_id": "ccfc"
+						},
+						{
+							"player_id": "ccfc-1",
+							"surname": "O'Mahony",
+							"firstName": "Peter",
+							"dob": "01/01/1980",
+							"img": "resources/images/pom.jpg",
+							"club_id": "ccfc"
+						},
+						{
+							"player_id": "ccfc-1",
+							"surname": "Zebo",
+							"firstName": "Simon",
+							"dob": "01/01/1980",
+							"img": "resources/images/zebo.jpg",
+							"club_id": "ccfc"
+						}
+
+					]
+				},
+				{
+					"team_id": "j1",
+					"club_id": "ccfc",
+					"name": "Junior Team",
+					"img": "resources/imags/corkcon.jpg",
+					"players": []
+				}
+			]
+		},
+		{
+			"club_id": "canoe",
+			"name": "Canoe",
+			"short_name": "Canoe",
+			"img": "resources/images/dcu-canoe.jpg",
+			"teams": []
+		},
+		{
+			"club_id": "amnesty",
+			"name": "DCU Amnesty Soc",
+			"short_name": "DCU Amnesty Soc",
+			"img": "resources/images/dcu-amnesty.jpg",
+			"teams": []
+		},
+		{
+			"club_id": "add",
+			"name": "Add another..",
+			"short_name": "Add another...",
+			"img": "resources/images/plus_sign.jpg",
+			"teams": []
+		}
+	]
+}
+

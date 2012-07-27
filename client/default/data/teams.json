@@ -1,0 +1,10 @@
+{
+	"items": [
+		{
+			"team_id": "ail",
+			"club_id": "ccfc",
+			"name": "AIL Senior Team",
+			"img": "resources/images/corkcon.jpg",
+		}
+	]
+}

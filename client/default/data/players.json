@@ -1,0 +1,29 @@
+{
+	"items": [
+			{
+				"player_id": "ccfc-1",
+				"surname": "O'Gara",
+				"firstName": "Ronan",
+				"dob": "01/01/1980",
+				"img": "resources/images/rog.jpg",
+				"club_id": "ccfc"
+			},
+			{
+				"player_id": "ccfc-1",
+				"surname": "O'Mahony",
+				"firstName": "Peter.jpg",
+				"dob": "01/01/1980",
+				"img": "resources/images/pom.jpg",
+				"club_id": "ccfc"
+			},
+			{
+				"player_id": "ccfc-1",
+				"surname": "Zebo",
+				"firstName": "Simon",
+				"dob": "01/01/1980",
+				"img": "resources/images/zebo.jpg",
+				"club_id": "ccfc"
+			}
+		]
+
+}
