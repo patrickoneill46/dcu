@@ -14,7 +14,7 @@
     border-radius: 15px;
 }
 
-.cs-tilesdataview:last-child{
+.cs-tilesdataview .cs-imagetile:last-child{
   opacity: 0.4; 
 }
 
